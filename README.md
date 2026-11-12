@@ -3,6 +3,16 @@
 > **Simulador Ejecutivo de Gobernanza de Datos, Ética de Inteligencia Artificial y Cumplimiento Regulatorio**  
 > Basado en la **Ley 25.326** y **Res. 161/2023 (Guía de IA Responsable)** de Argentina, la **LOPDGDD** (Ley Orgánica 3/2018) de España, el **RGPD** de la Unión Europea y el **EU AI Act**.
 
+🎮 **Jugar en línea ahora**: [Acceder a GobernIA: Misión Algoritmo](https://ais-pre-dcb3fhcx3tpdfq3qmhd33j-417411161966.us-west2.run.app)
+
+---
+
+## 📸 Pantalla de Inicio
+
+![Pantalla de Inicio de GobernIA](assets/gobernIA.png)
+
+*(Para mostrar la imagen de portada, sube tu captura a la carpeta `assets/` con el nombre `gobernIA.png` o `gobernIA.jpg`)*
+
 ---
 
 ## 🎯 Acerca del Proyecto
@@ -41,11 +51,11 @@ El sistema calcula el nivel institucional de la organización:
 
 ```bash
 # 1. Clonar el repositorio
-git clone <URL_DEL_REPOSITORIO>
-cd <CARPETA>
+git clone https://github.com/NoeliaOrsini/gobernIA-ai-governance-simulator.git
+cd gobernIA-ai-governance-simulator
 
 # 2. Instalar dependencias
-npm install
+npm install --legacy-peer-deps
 
 # 3. Iniciar servidor de desarrollo
 npm run dev
@@ -53,6 +63,17 @@ npm run dev
 # 4. Compilar para producción
 npm run build
 ```
+
+---
+
+## 🌐 Despliegue en GitHub Pages
+
+El proyecto ya cuenta con las rutas relativas (`base: './'`) preparadas para correr en GitHub Pages sin configuración compleja:
+
+1. En tu repositorio en GitHub, ve a **Settings** ➡️ **Pages**.
+2. En **Build and deployment** ➡️ **Source**, selecciona **GitHub Actions**.
+3. El flujo automatizado compilará el juego y estará disponible en:  
+   `https://NoeliaOrsini.github.io/gobernIA-ai-governance-simulator/`
 
 ---
 
