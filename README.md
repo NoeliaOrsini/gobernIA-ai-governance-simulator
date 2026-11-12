@@ -71,7 +71,7 @@ El proyecto ya cuenta con las rutas relativas (`base: './'`) preparadas para cor
 1. En tu repositorio en GitHub, ve a **Settings** ➡️ **Pages**.
 2. En **Build and deployment** ➡️ **Source**, selecciona **GitHub Actions**.
 3. El flujo automatizado compilará el juego y estará disponible en:  
-   `https://NoeliaOrsini.github.io/gobernIA-ai-governance-simulator/`
+   `https://<tu-usuario>.github.io/<tu-repositorio>/`
 
 ---
 
