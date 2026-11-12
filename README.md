@@ -11,8 +11,6 @@
 
 ![Pantalla de Inicio de GobernIA](assets/gobernIA.png)
 
-*(Para mostrar la imagen de portada, sube tu captura a la carpeta `assets/` con el nombre `gobernIA.png` o `gobernIA.jpg`)*
-
 ---
 
 ## 🎯 Acerca del Proyecto
