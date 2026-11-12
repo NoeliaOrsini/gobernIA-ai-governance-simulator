@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "GobernIA: Misión Algoritmo",
+  "short_name": "GobernIA",
+  "description": "Videojuego interactivo de toma de decisiones corporativas para evaluar la gobernanza de datos e IA.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0284c7",
+  "background_color": "#020617",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
